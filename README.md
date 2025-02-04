@@ -4,6 +4,10 @@
 
 
 💬 Let's connect!
+
 📧 Email:
+
 🌍 Website:
+
 💬 Discord:
+
