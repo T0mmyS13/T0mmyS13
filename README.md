@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hello, I'm Tomáš Svoboda
+Hello, I'm Tomáš Svoboda
 
 👨‍💻 I am a student of Computer Science at [FAV ZČU](https://www.fav.zcu.cz/cs/).
 🌱 Currently, I am learning Python.
