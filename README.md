@@ -1,5 +1,10 @@
 # 💫 About Me:
-Ahoj, já jsem Tomáš Svoboda<br><br>👨‍💻 Jsem student na FAV ZČU a miluji programování.<br>🚀 Pracuji na různých projektech, od webových aplikací po datovou analytiku.<br>🌱 Momentálně se učím Python <br>📫 Moje Kontakty  [https://linktr.ee/t0mmys]<br><br>
+# Hello, I'm Tomáš Svoboda
+
+👨‍💻 I am a student of Computer Science at [FAV ZČU](https://www.fav.zcu.cz/cs/).
+🌱 Currently, I am learning Python.
+📫 My Contacts: [Linktree](https://linktr.ee/t0mmys)
+
 
 
 # 💻 Tech Stack:
