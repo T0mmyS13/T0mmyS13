@@ -2,7 +2,7 @@
 Hello, I'm Tomáš Svoboda
 
 👨‍💻 I am a student of Computer Science at [FAV ZČU](https://www.fav.zcu.cz/cs/).  
-🌱 Currently, I am learning Python, C#, JavaScript, React, HTML, and CSS.  
+🌱 Currently, I am learning Python, C#, C++  
 📫 My Contacts: [Linktree](https://linktr.ee/t0mmys)
 
 # 💻 Tech Stack:
